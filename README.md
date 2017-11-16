@@ -45,7 +45,7 @@ These are some of the ways we do our best to implement our code of conduct.
 * Tangents or off-topic conversations should be moved to threads or a relevant channel. Someone wise once told me "channels are free" - feel free to start a channel to discuss a topic* if several people are interested in it.
 * Use `@here` instead of `@channel` where possible. `@channel` sends everyone in the channel a mobile/desktop notification (and `@everyone` send it to everyone in the group!) - whether or not they're online, regardless of timezone... `@here` just notifies the people in the channel who are currently online.
 
-*** Please note that the purpose of this channel must follow the guidelines above, we will remove any channels that encourage harmful attitudes or behaviour.**
+\* Please note that the purpose of this channel must follow the guidelines above, we will remove any channels that encourage harmful attitudes or behaviour.
 
 ### #general
 
