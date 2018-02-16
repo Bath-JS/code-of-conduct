@@ -42,7 +42,7 @@ These are some of the ways we do our best to implement our code of conduct.
 
 ### Misc
 
-* Tangents or off-topic conversations should be moved to threads or a relevant channel. Someone wise once told me "channels are free" - feel free to start a channel to discuss a topic* if several people are interested in it.
+* Tangents or off-topic conversations should be moved to threads or a relevant channel. Someone wise once said "channels are free" - feel free to start a channel to discuss a topic* if several people are interested in it.
 * Use `@here` instead of `@channel` where possible. `@channel` sends everyone in the channel a mobile/desktop notification (and `@everyone` send it to everyone in the group!) - whether or not they're online, regardless of timezone... `@here` just notifies the people in the channel who are currently online.
 
 \* Please note that the purpose of this channel must follow the guidelines above, we will remove any channels that encourage harmful attitudes or behaviour.
@@ -51,6 +51,6 @@ These are some of the ways we do our best to implement our code of conduct.
 
 A lot of people are in #general! The problem with having such a popular channel is that people don't want to leave, because there can be important or relevant announcements on there. However, it can sometimes get cluttered with noise! These are some (usually unspoken) guidelines that a lot of slack groups follow, and we recommend you do, too:
 
-* Try not to use gifs on #general - they can hide important content, and not everyone appreciates it when you [say hi](https://giphy.com/gifs/dog-sup-paul-windle-l41lShcuautqDZc5i) in [a thousand words](https://en.wiktionary.org/wiki/a_picture_paints_a_thousand_words)!
-* Post in #general when you think it's relevant to everyone in the group. If in doubt, use #random instead of #general, because just as many people are on it, but they can mute notifications without [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out), and you won't accidentally hide a potentially important announcement with [Frameworks as Cats](http://whichcatisyourjavascriptframework.com).
+* Try not to use gifs on #general
+* Post in #general when you think it's relevant to everyone in the group. If in doubt, use #random instead of #general, because just as many people are on it, but they can mute notifications and you won't accidentally bump a potentially important announcement.
 * Don’t use `@channel` on #general unless you’re an admin notifying everyone in the group about an important change.
